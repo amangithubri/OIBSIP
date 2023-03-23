@@ -1,0 +1,21 @@
+/*Navigation*/
+ #navbar{
+     flex-direction: column;
+ }
+/*Home Section*/
+#home{
+    height: 380px;
+    padding: 3px 68px;
+}
+#home::before{
+    height: 480px;
+}
+#home p{
+    height: 13px;
+}
+#services {
+    flex-direction: column;
+}
+#clients{
+    overflow: hidden;
+}
